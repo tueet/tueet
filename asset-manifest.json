@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tueet/static/js/main.36e58e90.js",
+    "index.html": "/tueet/index.html",
+    "main.36e58e90.js.map": "/tueet/static/js/main.36e58e90.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.36e58e90.js"
+  ]
+}
